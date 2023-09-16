@@ -1,4 +1,4 @@
-# JavaScript<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# React<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## React Project API
 Este repositorio tem como intuito mostrar os meus estudos que venho fazendo a bastante tempo em javaScript
